@@ -82,12 +82,14 @@ The dataset was prepared and analyzed by:
 ## Project Files
 
 
+```text
 retail-sales-analysis/
+
 ├── README.md
 ├── sales_data.xlsx
 ├── retail-sales-performance-dashboard.twbx
 └── retail-sales-dashboard.png
-
+```
 
 ---
 
