@@ -83,7 +83,6 @@ The dataset was prepared and analyzed by:
 
 
 retail-sales-analysis/
-
 ├── README.md
 ├── sales_data.xlsx
 ├── retail-sales-performance-dashboard.twbx
